@@ -121,8 +121,8 @@ A complete C++ implementation of the standard can be found at
 with the standard and tests, and is currently used in [Node.js](https://github.com/nodejs/node).
 
 A complete Python implementation of the standard can be found at
-[pywhatwgurl/pywhatwgurl](https://github.com/pywhatwgurl/pywhatwgurl). This implementation is kept synchronized
-with the standard and tests.
+[pywhatwgurl/pywhatwgurl](https://github.com/pywhatwgurl/pywhatwgurl). This implementation is kept
+synchronized with the standard and tests.
 
 The [Live URL Viewer](https://jsdom.github.io/whatwg-url/) lets you manually test-parse any URL,
 comparing your browser's URL parser to that of
